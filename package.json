@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/deefeloper/cachable/issues"
   },
-  "homepage": "https://github.com/deefeloper/cachable#readme"
+  "homepage": "https://github.com/deefeloper/cachable#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
 }
